@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Analysis.props(24,5): warning MSB4211: La propiedad "MsvcAnalysisPluginPath" se va a establecer en un valor por primera vez, pero ya se utilizó en "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (33,5)".
+cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+  Tetera.cpp
+  Generando código...
+glApplication.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/SAFESEH'
+  TemplateProject.vcxproj -> C:\Users\jpova\Documents\2024-1\Grafica\GLSL_Lighting\Debug\TemplateProject.exe
